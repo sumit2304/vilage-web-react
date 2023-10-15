@@ -1,0 +1,23 @@
+
+.tab-content {
+    overflow-y: auto;
+  }
+  
+.tab-panel-container {
+    display: flex;
+  }
+  
+  
+  .vertical-tabs {
+    flex: 1;
+    max-width: 200px; 
+  }
+  
+  
+  .tab-content {
+    flex: 2;
+    padding: 20px; 
+  }
+  
+  
+  
